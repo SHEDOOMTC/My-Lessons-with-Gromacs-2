@@ -17,6 +17,7 @@
 **Usage**
 
 ´´´bash
+
 cp box-solv-ion/solvate_ions.sh
 chmod +x solvate_ions.sh
 ./solvate_ions.sh
@@ -33,5 +34,5 @@ You will have a cordinate file (ions.gro) which is solvated and neutralized with
 
 **Notes**
 
-If you want different -pname, -nanme and -conc flags in the genion, edit the bash file
+If you want different -pname, -nname and -conc flags in the genion, edit the bash file
 
