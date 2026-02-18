@@ -18,8 +18,12 @@
 
 ´´´bash
 
+#clone repository
+
 cp box-solv-ion/solvate_ions.sh
+
 chmod +x solvate_ions.sh
+
 ./solvate_ions.sh
 
 ´´´
