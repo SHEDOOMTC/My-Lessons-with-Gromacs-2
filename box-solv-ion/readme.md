@@ -1,4 +1,4 @@
-## Boxing, Solvation and Adding ions to your Systems
+# Boxing, Solvation and Adding ions to your Systems
 
 ------------
 
