@@ -38,6 +38,8 @@ The [top-gro-file-equalizer script](top-gro-file-equalizer.sh) accepts the follo
 
 4.  Then finally uses "gmx editconf" to renumber the .gro file
 
+5.  It prints a summary t  able showing all that happened
+
 ----------
 
 **Note**
