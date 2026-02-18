@@ -16,17 +16,17 @@
 
 **Usage:**
 
-´´´bash
+```bash
 
 #clone repository
 
-cp box-solv-ion/solvate_ions.sh
+cp box-solv-ion/solvate_ions.sh /path/main-folder/
 
 chmod +x solvate_ions.sh
 
 ./solvate_ions.sh
 
-´´´
+```
 
 --------
 
