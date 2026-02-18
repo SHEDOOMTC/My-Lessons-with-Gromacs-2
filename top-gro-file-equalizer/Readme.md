@@ -14,7 +14,7 @@
 
 **Script**
 
-The [top-gro-file-equalizer script](../top-gro-file-equalizer.sh) accepts the following arguments interactively:
+The [top-gro-file-equalizer script](top-gro-file-equalizer.sh) accepts the following arguments interactively:
 
 1.  Directory pattern (dir*, walker* etc)
 
