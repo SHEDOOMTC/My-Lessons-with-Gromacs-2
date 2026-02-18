@@ -4,7 +4,7 @@
 
 **Prerequisites**
 
-1.  There must be a a folder with  n subfolders named dir{0..n}
+1.  There must be a a folder with  n subfolders (walkers) named dir{0..n}
 
 2.  Copy the cordinate file (.gro) of the various walkers into each subfolder (this must be the only cordinate file present)
 
