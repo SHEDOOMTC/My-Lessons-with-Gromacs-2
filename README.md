@@ -25,3 +25,9 @@ More on how to handle multi-system walkers preparation for metadynamics
 *This step is necessary after the solvation and genion step*
 
 ----------
+
+**energa-minimiza**
+
+*This automates the energy minimization across all the walkers*
+
+-----------
