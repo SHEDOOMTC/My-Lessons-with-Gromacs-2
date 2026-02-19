@@ -10,7 +10,7 @@
 
 3.  Copy all other needed file (topology files)
 
-4.  Copy the mdp file (ions.mdp) into the main folder
+4.  Copy the mdp file [ions.mdp](./ions.mdp) into the main folder
 
 -------------
 
